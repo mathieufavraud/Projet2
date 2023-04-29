@@ -32,6 +32,10 @@ img {
     object-fit: cover;
 }
 
+article {
+    cursor: pointer;
+  }
+
 /* Header*/
 
 .top-page {
